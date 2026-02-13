@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://raganork.site">
-    <img src="https://i.ibb.co/QL4BQQ6/Untitled-1.png" alt="Get Session" width="300"/>
+    <img src="https://i.ibb.co/XkdZ3xYQ/temp.jpg" alt="Get Session" width="300"/>
   </a>
 </p>
 
@@ -14,7 +14,7 @@ A lightweight WhatsApp bot framework with multi-session support and extensive co
 
 <p align="center">
   <a href="https://raganork.site">
-    <img src="https://i.ibb.co/fVWcycPc/get-session.png" alt="Get Session" width="200"/>
+    <img src="https://i.ibb.co/XkdZ3xYQ/temp.jpg" alt="Get Session" width="200"/>
   </a>
 </p>
 
@@ -24,7 +24,7 @@ A lightweight WhatsApp bot framework with multi-session support and extensive co
 
 <p align="center">
   <a href="https://raganork.site">
-    <img src="https://i.ibb.co/fVsfPsjk/deploy-bot.png" alt="Get Session" width="200"/>
+    <img src="https://i.ibb.co/XkdZ3xYQ/temp.jpg" alt="Get Session" width="200"/>
   </a>
 </p>
 
@@ -155,3 +155,4 @@ GPL License - See LICENSE file for details.
 ---
 
 **Note:** Some files are obfuscated for security reasons and should not be modified.
+
