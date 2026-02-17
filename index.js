@@ -23,7 +23,7 @@ const {
 async function main() {
   ensureTempDir();
   logger.info(`Created temporary directory at ${TEMP_DIR}`);
-  console.log(`Raganork v${require("./package.json").version}`);
+  console.log(`AchekBot v${require("./package.json").version}`);
   console.log(`- Configured sessions: ${SESSION.join(", ")}`);
   logger.info(`Configured sessions: ${SESSION.join(", ")}`);
   if (SESSION.length === 0) {
@@ -78,7 +78,7 @@ async function main() {
         res.end("OK");
       } else {
         res.writeHead(200, { "Content-Type": "text/plain" });
-        res.end("Raganork Bot is running!");
+        res.end("AchekBot is running!");
       }
     });
 
@@ -97,3 +97,4 @@ if (require.main === module) {
     process.exit(1);
   });
 }
+
