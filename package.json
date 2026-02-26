@@ -1,6 +1,6 @@
 {
   "name": "raganork-md",
-  "version": "6.2.26",
+  "version": "2.7.14",
   "description": "A multi functional wa bot.",
   "main": "index.js",
   "type": "commonjs",
@@ -42,5 +42,6 @@
     "youtube-sr": "^4.3.11"
   }
 }
+
 
 
